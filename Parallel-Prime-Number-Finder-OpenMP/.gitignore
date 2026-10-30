@@ -1,0 +1,6 @@
+prime
+prime.exe
+*.o
+.vscode/
+.idea/
+.DS_Store
